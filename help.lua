@@ -20,3 +20,5 @@ Fun:
   1. ,who [member] -- Get information about a person
   2. ,xkcd [id] -- Get a xkcd comic
   3. ,avatar [member] -- Get a person's avatar.
+  4. ,snipe -- Get the last deleted message in the current channel.
+  5. ,editsnipe -- Get the last edited message in the current channel.
