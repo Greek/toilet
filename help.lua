@@ -27,3 +27,4 @@ Fun:
   4. ,snipe -- Get the last deleted message in the current channel.
   5. ,editsnipe -- Get the last edited message in the current channel.
   6. ,userinfo [user] -- Get a person's information
+  7. ,emoji <emoji> -- Get the URL of an emoji.
