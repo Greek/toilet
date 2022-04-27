@@ -10,6 +10,7 @@ Moderation:
   3. ,clear <amount> -- Clear a certain amount of messages
   4. ,mute <member> [duration (seconds)] -- Mute a person.
   5. ,unmute <member> -- Un-mute a person.
+  6. ,nuke -- Delete and re-create the current channel.
 
 Configuration:
   1. ,config logs messages set <channel> -- Set a message logging channel
