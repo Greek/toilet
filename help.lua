@@ -12,6 +12,9 @@ Moderation:
   5. ,unmute <member> -- Un-mute a person.
   6. ,nuke -- Delete and re-create the current channel.
 
+Roles:
+  1. ,role <member> <role> -- Gives a role to a person who doesn't have it, removes it if they do.
+
 Configuration:
   1. ,config logs messages set <channel> -- Set a message logging channel
   2. ,config logs messages clear -- Clear the message log channel
